@@ -65,6 +65,6 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Authors
 
-- **Ahmed Fouad LAGHA** - [laghaahmedfouad@gmail.com](https://github.com/ahmedfouadlagha)  ~ [@ahmedfouadlagha] (https://twitter.com/ahmedfouadlagha):
+- **Ahmed Fouad LAGHA** - [laghaahmedfouad@gmail.com](https://github.com/ahmedfouadlagha)  ~ [@ahmedfouadlagha](https://twitter.com/ahmedfouadlagha):
 
 <img align="center" src="img/unnamed.png" alt="footer" width="150"  height="150"/>
